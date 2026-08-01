@@ -1,6 +1,6 @@
 # youtube_desktop_app_ui
 
-A new Flutter project.
+A YouTube Desktop Ui Flutter project.
 
 ## Getting Started
 
