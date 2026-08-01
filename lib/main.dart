@@ -8,9 +8,7 @@ void main() {
 
   // Configure bitsdojo_window
   doWhenWindowReady(() {
-    final initialSize = Size(1000, 600);
-    appWindow.minSize = Size(1000, 600);
-    appWindow.size = initialSize;
+     
     appWindow.alignment = Alignment.center;
     appWindow.title = "YouTube Redesign";
     appWindow.show();
